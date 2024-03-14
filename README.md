@@ -1,7 +1,7 @@
 # Fraud Detection System
 
 ## Problem Statement
-This internship project aims to use machine learning classification techniques to create an effective fraud detection system for Fastag transactions. The dataset, which includes transaction details, transaction amounts, vehicle information, and geographical location, is the basis for developing a resilient model. The primary goal is to create a model that can adequately identify instances of fraudulent activity, ensuring the integrity and security of Fastag transactions.
+This project aims to use machine learning classification techniques to create an effective fraud detection system for Fastag transactions. The dataset, which includes transaction details, transaction amounts, vehicle information, and geographical location, is the basis for developing a resilient model. The primary goal is to create a model that can adequately identify instances of fraudulent activity, ensuring the integrity and security of Fastag transactions.
 
 ## Dataset Description
 1. **Transaction_ID:** Unique identifier for each transaction.
